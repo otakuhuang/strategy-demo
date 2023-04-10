@@ -1,3 +1,11 @@
+.idea/
+.mvn/
+.vscode/
+target/
+test/
+mvnw
+mvnw.cmd
+
 # Compiled class file
 *.class
 
